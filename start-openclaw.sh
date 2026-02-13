@@ -83,7 +83,6 @@ if r2_configured; then
         echo "Restoring workspace from R2 ($REMOTE_WS_COUNT files)..."
         mkdir -p "$WORKSPACE_DIR"
         rclone copy "r2:${R2_BUCKET}/workspace/" "$WORKSPACE_DIR/" $RCLONE_FLAGS -v 2>&1 || echo "WARNING: workspace restore failed with exit code $?"
-        rclone copy "r2:${R2_BUCKET}/workspace-master/" "$WORKSPACE_DIR/" $RCLONE_FLAGS --overwrite -v 2>&1 || echo "WARNING: workspace-master overlay failed with exit code $?"
         echo "Workspace restored"
     fi
 
