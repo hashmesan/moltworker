@@ -1,0 +1,26 @@
+name = "gmail-transform"
+main = "src/index.ts"
+compatibility_date = "2024-11-27"
+compatibility_flags = ["nodejs_compat"]
+
+# Environment variables (non-secret)
+[vars]
+OPENCLAW_WEBHOOK_URL = "https://dvb-clawbot.deepvaluebagger.workers.dev/hooks/agent"
+# Comma-separated list of allowed sender email addresses (leave empty to allow all)
+ALLOWED_SENDERS = "quocble@yahoo.com,noreply@robinhood.com"
+
+# KV namespace for storing last processed historyId
+[[kv_namespaces]]
+binding = "GMAIL_STATE"
+id = "19162072d0844eaf933ba238dadc43f6"
+
+# Service binding to the main dvb-clawbot worker (avoids error 1042)
+[[services]]
+binding = "DVB_CLAWBOT"
+service = "dvb-clawbot"
+
+# Secrets (set with: wrangler secret put SECRET_NAME)
+# GMAIL_CLIENT_ID - OAuth2 client ID from Google Cloud Console
+# GMAIL_CLIENT_SECRET - OAuth2 client secret from Google Cloud Console
+# GMAIL_REFRESH_TOKEN - OAuth2 refresh token (get once from OAuth Playground)
+# OPENCLAW_HOOK_TOKEN - Authentication token for OpenClaw webhook

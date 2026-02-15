@@ -1,0 +1,32 @@
+{
+  "name": "gmail-transform",
+  "version": "1.0.0",
+  "description": "Transform Gmail push notifications to OpenClaw webhooks",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "test": "vitest"
+  },
+  "keywords": [
+    "cloudflare",
+    "worker",
+    "gmail",
+    "openclaw",
+    "webhook"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20241127.0",
+    "@types/html-to-text": "^9.0.4",
+    "@types/mailparser": "^3.4.6",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8",
+    "wrangler": "^4.65.0"
+  },
+  "dependencies": {
+    "html-to-text": "^9.0.5",
+    "mailparser": "^3.9.3"
+  }
+}

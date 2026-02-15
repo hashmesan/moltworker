@@ -1,0 +1,844 @@
+
+--3c53f751be0c8340a8ae2022cde518a12d2ea1db5fd5b04232c8aca258bd
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+<!doctype html><html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:=
+schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:offi=
+ce"><head><title></title><!--[if !mso]><!--><meta http-equiv=3D"X-UA-Compat=
+ible" content=3D"IE=3Dedge"><!--<![endif]--><meta http-equiv=3D"Content-Typ=
+e" content=3D"text/html; charset=3DUTF-8"><meta name=3D"viewport" content=
+=3D"width=3Ddevice-width,initial-scale=3D1"><style type=3D"text/css">#outlo=
+ok a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bicubic;
+    }
+
+    p {
+      display: block;
+      margin: 13px 0;
+    }</style><!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]--><!--[if lte mso 11]>
+    <style type=3D"text/css">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]--><style type=3D"text/css">@media only screen and (min-width:=
+480px) {
+      .mj-column-per-100 {
+        width: 100% !important;
+        max-width: 100%;
+      }
+    }</style><style media=3D"screen and (min-width:480px)">.moz-text-html .=
+mj-column-per-100 {
+      width: 100% !important;
+      max-width: 100%;
+    }</style><style type=3D"text/css">@media only screen and (max-width:480=
+px) {
+      table.mj-full-width-mobile {
+        width: 100% !important;
+      }
+
+      td.mj-full-width-mobile {
+        width: auto !important;
+      }
+    }</style><style type=3D"text/css">.buttonSecondary a {
+      background-color: #ffffff;
+      border: 1px solid #000000;
+      color: #000000;
+    }
+
+    .bodyText {}
+
+    .bodyText div {}
+
+    @media only screen and (min-width: 480px) {
+
+      .image-lead-override,
+      .image-lead-override td,
+      .image-lead-override img {
+        width: 471px !important;
+        height: 282px !important;
+      }
+    }
+
+    @media only screen and (min-width:480px) {
+      .mj-section-rh>table>tbody>tr>td {
+        padding-left: 90px !important;
+        padding-right: 90px !important;
+      }
+
+      .header-image-full-bleed>table>tbody>tr>td {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+      }
+    }
+
+    a[x-apple-data-detectors] {
+      color: inherit !important;
+      text-decoration: none !important;
+      font-size: inherit !important;
+      font-family: inherit !important;
+      font-weight: inherit !important;
+      line-height: inherit !important;
+    }</style><meta name=3D"color-scheme" content=3D"light"><meta name=3D"su=
+pported-color-schemes" content=3D"light"></head><body style=3D"word-spacing=
+:normal;background-color:#FFFFFF;" class=3D"body"><div class=3D"body" style=
+=3D"padding: 6px; background-color: #FFFFFF;"><!--[if mso | IE]><table alig=
+n=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mj-s=
+ection-rh-outlook" role=3D"presentation" style=3D"width:652px;" width=3D"65=
+2" bgcolor=3D"#ffffff" ><tr><td style=3D"line-height:0px;font-size:0px;mso-=
+line-height-rule:exactly;"><v:rect style=3D"width:652px;" xmlns:v=3D"urn:sc=
+hemas-microsoft-com:vml" fill=3D"true" stroke=3D"false"><v:fill origin=3D"0=
+.5, 0" position=3D"0.5, 0" src=3D"https://cdn.robinhood.com/post_office_ema=
+il_assets/headerBg.png" color=3D"#ffffff" type=3D"tile" /><v:textbox style=
+=3D"mso-fit-shape-to-text:true" inset=3D"0,0,0,0"><![endif]--><div class=3D=
+"mj-section-rh" style=3D"background:#ffffff url('https://cdn.robinhood.com/=
+post_office_email_assets/headerBg.png') center top / auto repeat;background=
+-position:center top;background-repeat:repeat;background-size:auto;margin:0=
+px auto;max-width:652px;"><div style=3D"line-height:0;font-size:0;"><table =
+align=3D"center" background=3D"https://cdn.robinhood.com/post_office_email_=
+assets/headerBg.png" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=
+=3D"presentation" style=3D"background:#ffffff url('https://cdn.robinhood.co=
+m/post_office_email_assets/headerBg.png') center top / auto repeat;backgrou=
+nd-position:center top;background-repeat:repeat;background-size:auto;width:=
+100%;"><tbody><tr><td style=3D"border:1px solid #B4BDC2;border-bottom:1;bor=
+der-top:1;direction:ltr;font-size:0px;padding:20px 0;padding-bottom:18px;pa=
+dding-left:32px;padding-right:32px;padding-top:21px;text-align:center;"><!-=
+-[if mso | IE]><table role=3D"presentation" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0"><tr><td class=3D"" style=3D"vertical-align:top;width:586p=
+x;" ><![endif]--><div class=3D"mj-column-per-100 mj-outlook-group-fix" styl=
+e=3D"font-size:0px;text-align:left;direction:ltr;display:inline-block;verti=
+cal-align:top;width:100%;"><table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" role=3D"presentation" width=3D"100%"><tbody><tr><td style=3D"vertic=
+al-align:top;padding:0;"><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" width=3D"100%"><tbody><tr><td align=3D"center"=
+ style=3D"font-size:0px;padding:0px;word-break:break-word;"><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"b=
+order-collapse:collapse;border-spacing:0px;"><tbody><tr><td style=3D"width:=
+115px;"><img alt=3D"Robinhood logo" height=3D"22" src=3D"https://images.ctf=
+assets.net/7as2sgxpn9mx/4S4XmqExyo1hpv0fFO9MZJ/1140b8482122bfde576f87f5cbe8=
+e9b5/RH_lockup_black.png" style=3D"border:0;display:block;outline:none;text=
+-decoration:none;height:22px;width:100%;font-size:15px;" width=3D"115"></td=
+></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><=
+/div><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></ta=
+ble></div></div><!--[if mso | IE]></v:textbox></v:rect></td></tr></table><t=
+able align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"bodyText-outlook mj-section-rh-outlook" role=3D"presentation" style=3D=
+"width:652px;" width=3D"652" bgcolor=3D"#ffffff" ><tr><td style=3D"line-hei=
+ght:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div class=
+=3D"bodyText mj-section-rh" style=3D"background:#ffffff;background-color:#f=
+fffff;margin:0px auto;max-width:652px;"><table align=3D"center" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"backgr=
+ound:#ffffff;background-color:#ffffff;width:100%;"><tbody><tr><td style=3D"=
+border:1px solid #B4BDC2;border-bottom:none;border-top:none;direction:ltr;f=
+ont-size:0px;padding:20px 0;padding-bottom:0;padding-left:32px;padding-righ=
+t:32px;padding-top:0;text-align:center;"><!--[if mso | IE]><table role=3D"p=
+resentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td class=
+=3D"" style=3D"vertical-align:top;width:586px;" ><![endif]--><div class=3D"=
+mj-column-per-100 mj-outlook-group-fix" style=3D"font-size:0px;text-align:l=
+eft;direction:ltr;display:inline-block;vertical-align:top;width:100%;"><tab=
+le border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" s=
+tyle=3D"vertical-align:top;" width=3D"100%"><tbody><tr><td align=3D"left" s=
+tyle=3D"font-size:0px;padding:12px 0px;padding-top:24px;padding-bottom:12px=
+;word-break:break-word;"><div style=3D"font-family:Helvetica, Arial;font-si=
+ze:24px;line-height:29px;text-align:left;color:#040D14;">TE $9.00 Put Assig=
+ned</div></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></tabl=
+e><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr><=
+/table><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"bodyText-outlook mj-section-rh-outlook" role=3D"presentatio=
+n" style=3D"width:652px;" width=3D"652" bgcolor=3D"#ffffff" ><tr><td style=
+=3D"line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-=
+-><div class=3D"bodyText mj-section-rh" style=3D"background:#ffffff;backgro=
+und-color:#ffffff;margin:0px auto;max-width:652px;"><table align=3D"center"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" sty=
+le=3D"background:#ffffff;background-color:#ffffff;width:100%;"><tbody><tr><=
+td style=3D"border:1px solid #B4BDC2;border-bottom:none;border-top:none;dir=
+ection:ltr;font-size:0px;padding:20px 0;padding-bottom:0;padding-left:32px;=
+padding-right:32px;padding-top:0;text-align:center;"><!--[if mso | IE]><tab=
+le role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><=
+tr><td class=3D"" style=3D"vertical-align:top;width:586px;" ><![endif]--><d=
+iv class=3D"mj-column-per-100 mj-outlook-group-fix" style=3D"font-size:0px;=
+text-align:left;direction:ltr;display:inline-block;vertical-align:top;width=
+:100%;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"pre=
+sentation" style=3D"vertical-align:top;" width=3D"100%"><tbody><tr><td alig=
+n=3D"left" style=3D"font-size:0px;padding:12px 0px;word-break:break-word;">=
+<div style=3D"font-family:Helvetica, Arial;font-size:15px;line-height:25px;=
+text-align:left;color:#040D14;">Hi Quoc,</div></td></tr><tr><td align=3D"le=
+ft" style=3D"font-size:0px;padding:12px 0px;word-break:break-word;"><div st=
+yle=3D"font-family:Helvetica, Arial;font-size:15px;line-height:25px;text-al=
+ign:left;color:#040D14;">Actions were taken in your individual (=E2=80=A2=
+=E2=80=A2=E2=80=A21062) account.</div></td></tr><tr><td align=3D"left" styl=
+e=3D"font-size:0px;padding:12px 0px;word-break:break-word;"><div style=3D"f=
+ont-family:Helvetica, Arial;font-size:15px;line-height:25px;text-align:left=
+;color:#040D14;">You were assigned on your TE $9.00 Put options and bought =
+800 shares of TE at $9.00 per share.</div></td></tr><tr><td align=3D"left" =
+style=3D"font-size:0px;padding:12px 0px;word-break:break-word;"><div style=
+=3D"font-family:Helvetica, Arial;font-size:15px;line-height:25px;text-align=
+:left;color:#040D14;">Your individual (=E2=80=A2=E2=80=A2=E2=80=A21062) acc=
+ount buying power may have decreased because of this assignment.</div></td>=
+</tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![endif]-->=
+</td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><table =
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"=
+mj-section-rh-outlook" role=3D"presentation" style=3D"width:652px;" width=
+=3D"652" bgcolor=3D"#ffffff" ><tr><td style=3D"line-height:0px;font-size:0p=
+x;mso-line-height-rule:exactly;"><![endif]--><div class=3D"mj-section-rh" s=
+tyle=3D"background:#ffffff;background-color:#ffffff;margin:0px auto;max-wid=
+th:652px;"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" role=3D"presentation" style=3D"background:#ffffff;background-color=
+:#ffffff;width:100%;"><tbody><tr><td style=3D"border:1px solid #B4BDC2;bord=
+er-bottom:none;border-top:none;direction:ltr;font-size:0px;padding:20px 0;p=
+adding-bottom:0;padding-left:32px;padding-right:32px;padding-top:0;text-ali=
+gn:center;"><!--[if mso | IE]><table role=3D"presentation" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D"vertical-align=
+:top;width:586px;" ><![endif]--><div class=3D"mj-column-per-100 mj-outlook-=
+group-fix" style=3D"font-size:0px;text-align:left;direction:ltr;display:inl=
+ine-block;vertical-align:top;width:100%;"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"vertical-align:top;=
+" width=3D"100%"><tbody><tr><td align=3D"left" vertical-align=3D"middle" st=
+yle=3D"font-size:0px;padding:12px 0px;word-break:break-word;"><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"b=
+order-collapse:separate;line-height:100%;"><tbody><tr><td align=3D"center" =
+bgcolor=3D"#040D14" role=3D"presentation" style=3D"border:1px solid #b4bdc2=
+;border-radius:22px;cursor:auto;mso-padding-alt:11px 30px;background:#040D1=
+4;" valign=3D"middle"><a href=3D"https://applink.robinhood.com/option_event=
+s?id=3D9e214cd8-f87d-4dde-81d8-d0f20390fbe0" style=3D"display: inline-block=
+; background: #040D14; color: #ffffff; font-family: Helvetica, Arial; font-=
+size: 15px; font-weight: bold; line-height: 22px; margin: 0; text-decoratio=
+n: none; text-transform: none; padding: 11px 30px; mso-padding-alt: 0px; bo=
+rder-radius: 22px;" target=3D"_blank">View Assignment</a></td></tr></tbody>=
+</table></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table=
+><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></=
+table><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"mj-section-rh-outlook" role=3D"presentation" style=3D"width:65=
+2px;" width=3D"652" bgcolor=3D"#ffffff" ><tr><td style=3D"line-height:0px;f=
+ont-size:0px;mso-line-height-rule:exactly;"><![endif]--><div class=3D"mj-se=
+ction-rh" style=3D"background:#ffffff;background-color:#ffffff;margin:0px a=
+uto;max-width:652px;"><table align=3D"center" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" role=3D"presentation" style=3D"background:#ffffff;backg=
+round-color:#ffffff;width:100%;"><tbody><tr><td style=3D"border:1px solid #=
+B4BDC2;border-bottom:none;border-top:none;direction:ltr;font-size:0px;paddi=
+ng:20px 0;padding-bottom:0;padding-left:32px;padding-right:32px;padding-top=
+:0;text-align:center;"><!--[if mso | IE]><table role=3D"presentation" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D"ver=
+tical-align:top;width:586px;" ><![endif]--><div class=3D"mj-column-per-100 =
+mj-outlook-group-fix" style=3D"font-size:0px;text-align:left;direction:ltr;=
+display:inline-block;vertical-align:top;width:100%;"><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"vertical-a=
+lign:top;" width=3D"100%"><tbody><tr><td align=3D"left" style=3D"font-size:=
+0px;padding:12px 0px;word-break:break-word;"><div style=3D"font-family:Helv=
+etica, Arial;font-size:15px;line-height:25px;text-align:left;color:#040D14;=
+"><b>Why did I get assigned?</b><br>This can be a normal part of options tr=
+ading. When a buyer chooses to exercise a contract with your particular str=
+ike price and expiration date, your contract may be assigned at random.</di=
+v></td></tr><tr><td align=3D"left" style=3D"font-size:0px;padding:12px 0px;=
+word-break:break-word;"><div style=3D"font-family:Helvetica, Arial;font-siz=
+e:15px;line-height:25px;text-align:left;color:#040D14;">You can learn more =
+about options assignment by visiting our <a href=3D"https://robinhood.com/u=
+s/en/support/articles/expiration-exercise-and-assignment/" style=3D"color: =
+#000000; text-decoration: underline; font-weight: bold;">Help Center</a>.</=
+div></td></tr><tr><td align=3D"left" style=3D"font-size:0px;padding:12px 0p=
+x;word-break:break-word;"><div style=3D"font-family:Helvetica, Arial;font-s=
+ize:15px;line-height:25px;text-align:left;color:#6F787E;">=E2=80=93 The Rob=
+inhood team</div></td></tr><tr><td align=3D"left" style=3D"font-size:0px;pa=
+dding:12px 0px;padding-top:0;padding-bottom:22px;word-break:break-word;"><d=
+iv style=3D"font-family:Helvetica, Arial;font-size:15px;line-height:25px;te=
+xt-align:left;color:#040D14;"></div></td></tr></tbody></table></div><!--[if=
+ mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table></div><!=
+--[if mso | IE]></td></tr></table><table align=3D"center" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mj-section-rh-outlook" role=3D"pre=
+sentation" style=3D"width:652px;" width=3D"652" bgcolor=3D"#F6F6F6" ><tr><t=
+d style=3D"line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![=
+endif]--><div class=3D"mj-section-rh" style=3D"background:#F6F6F6;backgroun=
+d-color:#F6F6F6;margin:0px auto;max-width:652px;"><table align=3D"center" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=
+=3D"background:#F6F6F6;background-color:#F6F6F6;width:100%;"><tbody><tr><td=
+ style=3D"border:1px solid #B4BDC2;border-bottom:none;border-top:1;directio=
+n:ltr;font-size:0px;padding:20px 0;padding-bottom:0;padding-left:32px;paddi=
+ng-right:32px;padding-top:30px;text-align:center;"><!--[if mso | IE]><table=
+ role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr=
+><td class=3D"footer-column-outlook" style=3D"vertical-align:top;width:586p=
+x;" ><![endif]--><div class=3D"mj-column-per-100 mj-outlook-group-fix foote=
+r-column" style=3D"font-size:0px;text-align:left;direction:ltr;display:inli=
+ne-block;vertical-align:top;width:100%;"><table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" role=3D"presentation" style=3D"vertical-align:top;" w=
+idth=3D"100%"><tbody><tr><td align=3D"left" style=3D"font-size:0px;padding:=
+12px 0px;word-break:break-word;"><div style=3D"font-family:Helvetica, Arial=
+;font-size:15px;line-height:25px;text-align:left;color:#040D14;"></div></td=
+></tr><tr><td align=3D"left" class=3D"social-link-table" style=3D"font-size=
+:0px;padding:0 0 8px;word-break:break-word;"><table cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%" border=3D"0" style=3D"margin-left: -5px; color:=
+ #040D14; font-family: Helvetica, Arial; font-size: 15px; line-height: 25px=
+; table-layout: auto; width: 100%; border: none;"><tr><td width=3D"32"><a h=
+ref=3D"https://www.facebook.com/robinhoodapp" style=3D"color: #040D14; text=
+-decoration: none; font-weight: normal;"><img src=3D"https://cdn.robinhood.=
+com/post_office_email_assets/Facebook-2%402x.png" srcset=3D"https://cdn.rob=
+inhood.com/post_office_email_assets/Facebook-2.png, https://cdn.robinhood.c=
+om/post_office_email_assets/Facebook-2%402x.png 2x" width=3D"32" height=3D"=
+32" align=3D"left" padding=3D"0"></a></td><td width=3D"12"></td><td width=
+=3D"32"><a href=3D"https://twitter.com/RobinhoodApp" style=3D"color: #040D1=
+4; text-decoration: none; font-weight: normal;"><img src=3D"https://cdn.rob=
+inhood.com/post_office_email_assets/Twitter-2%402x.png" srcset=3D"https://c=
+dn.robinhood.com/post_office_email_assets/Twitter-2.png, https://cdn.robinh=
+ood.com/post_office_email_assets/Twitter-2%402x.png 2x" width=3D"32" height=
+=3D"32" align=3D"left" padding=3D"0"></a></td><td width=3D"12"></td><td wid=
+th=3D"32"><a href=3D"https://www.instagram.com/robinhoodapp" style=3D"color=
+: #040D14; text-decoration: none; font-weight: normal;"><img src=3D"https:/=
+/cdn.robinhood.com/post_office_email_assets/Instagram-2%402x.png" srcset=3D=
+"https://cdn.robinhood.com/post_office_email_assets/Instagram-2.png, https:=
+//cdn.robinhood.com/post_office_email_assets/Instagram-2%402x.png 2x" width=
+=3D"32" height=3D"32" align=3D"left" padding=3D"0"></a></td><td colspan=3D"=
+100"><!-- NOTE(stuart.olivera): Using colspan=3D100 because Apple Mail resi=
+zes all table cells to be equal otherwise --><!-- NOTE(stuart.olivera): Emp=
+ty to prevent auto-layout within open horizontal space --></td></tr></table=
+></td></tr><tr><td align=3D"left" style=3D"font-size:0px;padding:12px 0px;p=
+adding-top:0;padding-bottom:0;word-break:break-word;"><div style=3D"font-fa=
+mily:Helvetica, Arial;font-size:15px;line-height:25px;text-align:left;color=
+:#040D14;"><a href=3D"https://robinhood.com" style=3D"color: #040D14; text-=
+decoration: none; font-weight: normal;">Home</a><br><a href=3D"https://robi=
+nhood.com/support/" style=3D"color: #040D14; text-decoration: none; font-we=
+ight: normal;">Help Center</a><br><a href=3D"https://robinhood.com/contact"=
+ style=3D"color: #040D14; text-decoration: none; font-weight: normal;">Cont=
+act Us</a><br><a href=3D"https://robinhood.com/l/privacy" style=3D"color: #=
+040D14; text-decoration: none; font-weight: normal;">Privacy Policy</a></di=
+v></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![en=
+dif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table>=
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"mj-section-rh-outlook" role=3D"presentation" style=3D"width:652px;" =
+width=3D"652" bgcolor=3D"#F6F6F6" ><tr><td style=3D"line-height:0px;font-si=
+ze:0px;mso-line-height-rule:exactly;"><![endif]--><div class=3D"mj-section-=
+rh" style=3D"background:#F6F6F6;background-color:#F6F6F6;margin:0px auto;ma=
+x-width:652px;"><table align=3D"center" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" role=3D"presentation" style=3D"background:#F6F6F6;background-=
+color:#F6F6F6;width:100%;"><tbody><tr><td style=3D"border:1px solid #B4BDC2=
+;border-bottom:1;border-top:none;direction:ltr;font-size:0px;padding:20px 0=
+;padding-bottom:34px;padding-left:32px;padding-right:32px;padding-top:0;tex=
+t-align:center;"><!--[if mso | IE]><table role=3D"presentation" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"footer-column-outloo=
+k footer-disclosure-outlook footer-disclosure-muted-outlook" style=3D"verti=
+cal-align:top;width:586px;" ><![endif]--><div class=3D"mj-column-per-100 mj=
+-outlook-group-fix footer-column footer-disclosure footer-disclosure-muted"=
+ style=3D"font-size:0px;text-align:left;direction:ltr;display:inline-block;=
+vertical-align:top;width:100%;"><table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" role=3D"presentation" style=3D"vertical-align:top;" width=3D"1=
+00%"><tbody><tr><td align=3D"left" style=3D"font-size: 0px; padding: 12px 0=
+px; word-break: break-word; padding-bottom: 0px;"><div style=3D"font-family=
+: Helvetica, Arial; text-align: left; font-size: 12px; line-height: 22px; c=
+olor: #6F787E;">Funds being contributed into or distributed from retirement=
+ accounts may entail tax consequences. Contributions are limited and withdr=
+awals before age 59 1/2 may be subject to a penalty tax. Robinhood does not=
+ provide tax advice.</div></td></tr><tr><td align=3D"left" style=3D"font-si=
+ze: 0px; padding: 12px 0px; word-break: break-word; padding-bottom: 0px;"><=
+div style=3D"font-family: Helvetica, Arial; text-align: left; font-size: 12=
+px; line-height: 22px; color: #6F787E;">Options trading on Robinhood entail=
+s significant risk and is not appropriate for all investors. Options transa=
+ctions are often complex and may involve the potential of losing your inves=
+tment. Under certain market conditions, you may find it difficult or imposs=
+ible to liquidate an options position quickly at a reasonable price. All in=
+vestments involve risk and the past performance of a security, or financial=
+ product does not guarantee future results or returns. Investors should con=
+sider their investment objectives and risks carefully before investing in o=
+ptions.<br><br>To learn more about the risks associated with options tradin=
+g, please read the <a href=3D"https://cdn.robinhood.com/assets/robinhood/le=
+gal/Characteristics%20and%20Risks%20of%20Standardized%20Options.pdf" style=
+=3D"color: #040D14; text-decoration: none; font-weight: normal;">Characteri=
+stics and Risks of Standardized Options</a> before you begin trading option=
+s. Please also be aware of the risks listed in the following documents: <a =
+href=3D"https://cdn.robinhood.com/assets/robinhood/legal/RHF%20Day%20Tradin=
+g%20Risk%20Disclosure.pdf" style=3D"color: #040D14; text-decoration: none; =
+font-weight: normal;">Day Trading Risk Disclosure Statement</a>, <a href=3D=
+"https://www.finra.org/investors/learn-to-invest/advanced-investing/purchas=
+ing-margin" style=3D"color: #040D14; text-decoration: none; font-weight: no=
+rmal;">FINRA Investor Information</a>.<br><br>You should be aware that when=
+ trading options you may become obligated to make or take delivery of the u=
+nderlying security. You may also be restricted from selling shares of the u=
+nderlying security which are held to cover options positions. Under certain=
+ circumstances, the specifications of outstanding contracts (including the =
+exercise price of an option) may be modified by the exchange or clearinghou=
+se to react to changes in the underlying interest.<br><br>Investors should =
+be aware that system response, execution price, speed, liquidity, market da=
+ta, and account access times are affected by many factors, including market=
+ volatility, size and type of order, market conditions, system performance,=
+ and other factors.</div></td></tr><tr><td align=3D"left" style=3D"font-siz=
+e: 0px; padding: 12px 0px; word-break: break-word; padding-bottom: 0px;"><d=
+iv style=3D"font-family: Helvetica, Arial; text-align: left; font-size: 12p=
+x; line-height: 22px; color: #6F787E;">All securities and investments are o=
+ffered to self-directed customers by Robinhood Financial LLC, member <a hre=
+f=3D"https://www.sipc.org/" style=3D"color: #040D14; text-decoration: none;=
+ font-weight: normal;">SIPC</a> & <a href=3D"https://www.finra.org/#/" styl=
+e=3D"color: #040D14; text-decoration: none; font-weight: normal;">FINRA</a>=
+. Robinhood Securities, LLC (member <a href=3D"https://www.sipc.org/" style=
+=3D"color: #040D14; text-decoration: none; font-weight: normal;">SIPC</a>),=
+ is a registered broker dealer and provides brokerage clearing services. Bo=
+th are wholly owned subsidiaries of Robinhood Markets, Inc.</div></td></tr>=
+<tr><td align=3D"left" style=3D"font-size: 0px; padding: 12px 0px; word-bre=
+ak: break-word; padding-bottom: 0px;"><div style=3D"font-family: Helvetica,=
+ Arial; text-align: left; font-size: 12px; line-height: 22px; color: #6F787=
+E;">Copyright =C2=A9 2026 Robinhood, 85 Willow Road, Menlo Park, CA 94025. =
+All rights reserved. 2=E2=80=8B621131</div></td></tr><tr><td align=3D"left"=
+ style=3D"font-size: 0px; padding: 12px 0px; word-break: break-word; paddin=
+g-bottom: 0px;"><div style=3D"font-family: Helvetica, Arial; text-align: le=
+ft; font-size: 12px; line-height: 22px; color: #6F787E;">This email is bein=
+g sent in compliance with regulatory requirements.</div></td></tr></tbody><=
+/table></div><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tb=
+ody></table></div><!--[if mso | IE]></td></tr></table><![endif]--></div></b=
+ody></html>
+--3c53f751be0c8340a8ae2022cde518a12d2ea1db5fd5b04232c8aca258bd
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!doctype html><html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:=
+schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:offi=
+ce"><head><title></title><!--[if !mso]><!--><meta http-equiv=3D"X-UA-Compat=
+ible" content=3D"IE=3Dedge"><!--<![endif]--><meta http-equiv=3D"Content-Typ=
+e" content=3D"text/html; charset=3DUTF-8"><meta name=3D"viewport" content=
+=3D"width=3Ddevice-width,initial-scale=3D1"><style type=3D"text/css">#outlo=
+ok a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bicubic;
+    }
+
+    p {
+      display: block;
+      margin: 13px 0;
+    }</style><!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]--><!--[if lte mso 11]>
+    <style type=3D"text/css">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]--><style type=3D"text/css">@media only screen and (min-width:=
+480px) {
+      .mj-column-per-100 {
+        width: 100% !important;
+        max-width: 100%;
+      }
+    }</style><style media=3D"screen and (min-width:480px)">.moz-text-html .=
+mj-column-per-100 {
+      width: 100% !important;
+      max-width: 100%;
+    }</style><style type=3D"text/css">@media only screen and (max-width:480=
+px) {
+      table.mj-full-width-mobile {
+        width: 100% !important;
+      }
+
+      td.mj-full-width-mobile {
+        width: auto !important;
+      }
+    }</style><style type=3D"text/css">.buttonSecondary a {
+      background-color: #ffffff;
+      border: 1px solid #000000;
+      color: #000000;
+    }
+
+    .bodyText {}
+
+    .bodyText div {}
+
+    @media only screen and (min-width: 480px) {
+
+      .image-lead-override,
+      .image-lead-override td,
+      .image-lead-override img {
+        width: 471px !important;
+        height: 282px !important;
+      }
+    }
+
+    @media only screen and (min-width:480px) {
+      .mj-section-rh>table>tbody>tr>td {
+        padding-left: 90px !important;
+        padding-right: 90px !important;
+      }
+
+      .header-image-full-bleed>table>tbody>tr>td {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+      }
+    }
+
+    a[x-apple-data-detectors] {
+      color: inherit !important;
+      text-decoration: none !important;
+      font-size: inherit !important;
+      font-family: inherit !important;
+      font-weight: inherit !important;
+      line-height: inherit !important;
+    }</style><meta name=3D"color-scheme" content=3D"light"><meta name=3D"su=
+pported-color-schemes" content=3D"light"></head><body style=3D"word-spacing=
+:normal;background-color:#FFFFFF;" class=3D"body"><div class=3D"body" style=
+=3D"padding: 6px; background-color: #FFFFFF;"><!--[if mso | IE]><table alig=
+n=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mj-s=
+ection-rh-outlook" role=3D"presentation" style=3D"width:652px;" width=3D"65=
+2" bgcolor=3D"#ffffff" ><tr><td style=3D"line-height:0px;font-size:0px;mso-=
+line-height-rule:exactly;"><v:rect style=3D"width:652px;" xmlns:v=3D"urn:sc=
+hemas-microsoft-com:vml" fill=3D"true" stroke=3D"false"><v:fill origin=3D"0=
+.5, 0" position=3D"0.5, 0" src=3D"https://cdn.robinhood.com/post_office_ema=
+il_assets/headerBg.png" color=3D"#ffffff" type=3D"tile" /><v:textbox style=
+=3D"mso-fit-shape-to-text:true" inset=3D"0,0,0,0"><![endif]--><div class=3D=
+"mj-section-rh" style=3D"background:#ffffff url('https://cdn.robinhood.com/=
+post_office_email_assets/headerBg.png') center top / auto repeat;background=
+-position:center top;background-repeat:repeat;background-size:auto;margin:0=
+px auto;max-width:652px;"><div style=3D"line-height:0;font-size:0;"><table =
+align=3D"center" background=3D"https://cdn.robinhood.com/post_office_email_=
+assets/headerBg.png" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=
+=3D"presentation" style=3D"background:#ffffff url('https://cdn.robinhood.co=
+m/post_office_email_assets/headerBg.png') center top / auto repeat;backgrou=
+nd-position:center top;background-repeat:repeat;background-size:auto;width:=
+100%;"><tbody><tr><td style=3D"border:1px solid #B4BDC2;border-bottom:1;bor=
+der-top:1;direction:ltr;font-size:0px;padding:20px 0;padding-bottom:18px;pa=
+dding-left:32px;padding-right:32px;padding-top:21px;text-align:center;"><!-=
+-[if mso | IE]><table role=3D"presentation" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0"><tr><td class=3D"" style=3D"vertical-align:top;width:586p=
+x;" ><![endif]--><div class=3D"mj-column-per-100 mj-outlook-group-fix" styl=
+e=3D"font-size:0px;text-align:left;direction:ltr;display:inline-block;verti=
+cal-align:top;width:100%;"><table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" role=3D"presentation" width=3D"100%"><tbody><tr><td style=3D"vertic=
+al-align:top;padding:0;"><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" width=3D"100%"><tbody><tr><td align=3D"center"=
+ style=3D"font-size:0px;padding:0px;word-break:break-word;"><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"b=
+order-collapse:collapse;border-spacing:0px;"><tbody><tr><td style=3D"width:=
+115px;"><img alt=3D"Robinhood logo" height=3D"22" src=3D"https://images.ctf=
+assets.net/7as2sgxpn9mx/4S4XmqExyo1hpv0fFO9MZJ/1140b8482122bfde576f87f5cbe8=
+e9b5/RH_lockup_black.png" style=3D"border:0;display:block;outline:none;text=
+-decoration:none;height:22px;width:100%;font-size:15px;" width=3D"115"></td=
+></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><=
+/div><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></ta=
+ble></div></div><!--[if mso | IE]></v:textbox></v:rect></td></tr></table><t=
+able align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"bodyText-outlook mj-section-rh-outlook" role=3D"presentation" style=3D=
+"width:652px;" width=3D"652" bgcolor=3D"#ffffff" ><tr><td style=3D"line-hei=
+ght:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div class=
+=3D"bodyText mj-section-rh" style=3D"background:#ffffff;background-color:#f=
+fffff;margin:0px auto;max-width:652px;"><table align=3D"center" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"backgr=
+ound:#ffffff;background-color:#ffffff;width:100%;"><tbody><tr><td style=3D"=
+border:1px solid #B4BDC2;border-bottom:none;border-top:none;direction:ltr;f=
+ont-size:0px;padding:20px 0;padding-bottom:0;padding-left:32px;padding-righ=
+t:32px;padding-top:0;text-align:center;"><!--[if mso | IE]><table role=3D"p=
+resentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td class=
+=3D"" style=3D"vertical-align:top;width:586px;" ><![endif]--><div class=3D"=
+mj-column-per-100 mj-outlook-group-fix" style=3D"font-size:0px;text-align:l=
+eft;direction:ltr;display:inline-block;vertical-align:top;width:100%;"><tab=
+le border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" s=
+tyle=3D"vertical-align:top;" width=3D"100%"><tbody><tr><td align=3D"left" s=
+tyle=3D"font-size:0px;padding:12px 0px;padding-top:24px;padding-bottom:12px=
+;word-break:break-word;"><div style=3D"font-family:Helvetica, Arial;font-si=
+ze:24px;line-height:29px;text-align:left;color:#040D14;">TE $9.00 Put Assig=
+ned</div></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></tabl=
+e><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr><=
+/table><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"bodyText-outlook mj-section-rh-outlook" role=3D"presentatio=
+n" style=3D"width:652px;" width=3D"652" bgcolor=3D"#ffffff" ><tr><td style=
+=3D"line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-=
+-><div class=3D"bodyText mj-section-rh" style=3D"background:#ffffff;backgro=
+und-color:#ffffff;margin:0px auto;max-width:652px;"><table align=3D"center"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" sty=
+le=3D"background:#ffffff;background-color:#ffffff;width:100%;"><tbody><tr><=
+td style=3D"border:1px solid #B4BDC2;border-bottom:none;border-top:none;dir=
+ection:ltr;font-size:0px;padding:20px 0;padding-bottom:0;padding-left:32px;=
+padding-right:32px;padding-top:0;text-align:center;"><!--[if mso | IE]><tab=
+le role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><=
+tr><td class=3D"" style=3D"vertical-align:top;width:586px;" ><![endif]--><d=
+iv class=3D"mj-column-per-100 mj-outlook-group-fix" style=3D"font-size:0px;=
+text-align:left;direction:ltr;display:inline-block;vertical-align:top;width=
+:100%;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"pre=
+sentation" style=3D"vertical-align:top;" width=3D"100%"><tbody><tr><td alig=
+n=3D"left" style=3D"font-size:0px;padding:12px 0px;word-break:break-word;">=
+<div style=3D"font-family:Helvetica, Arial;font-size:15px;line-height:25px;=
+text-align:left;color:#040D14;">Hi Quoc,</div></td></tr><tr><td align=3D"le=
+ft" style=3D"font-size:0px;padding:12px 0px;word-break:break-word;"><div st=
+yle=3D"font-family:Helvetica, Arial;font-size:15px;line-height:25px;text-al=
+ign:left;color:#040D14;">Actions were taken in your individual (=E2=80=A2=
+=E2=80=A2=E2=80=A21062) account.</div></td></tr><tr><td align=3D"left" styl=
+e=3D"font-size:0px;padding:12px 0px;word-break:break-word;"><div style=3D"f=
+ont-family:Helvetica, Arial;font-size:15px;line-height:25px;text-align:left=
+;color:#040D14;">You were assigned on your TE $9.00 Put options and bought =
+800 shares of TE at $9.00 per share.</div></td></tr><tr><td align=3D"left" =
+style=3D"font-size:0px;padding:12px 0px;word-break:break-word;"><div style=
+=3D"font-family:Helvetica, Arial;font-size:15px;line-height:25px;text-align=
+:left;color:#040D14;">Your individual (=E2=80=A2=E2=80=A2=E2=80=A21062) acc=
+ount buying power may have decreased because of this assignment.</div></td>=
+</tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![endif]-->=
+</td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><table =
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"=
+mj-section-rh-outlook" role=3D"presentation" style=3D"width:652px;" width=
+=3D"652" bgcolor=3D"#ffffff" ><tr><td style=3D"line-height:0px;font-size:0p=
+x;mso-line-height-rule:exactly;"><![endif]--><div class=3D"mj-section-rh" s=
+tyle=3D"background:#ffffff;background-color:#ffffff;margin:0px auto;max-wid=
+th:652px;"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" role=3D"presentation" style=3D"background:#ffffff;background-color=
+:#ffffff;width:100%;"><tbody><tr><td style=3D"border:1px solid #B4BDC2;bord=
+er-bottom:none;border-top:none;direction:ltr;font-size:0px;padding:20px 0;p=
+adding-bottom:0;padding-left:32px;padding-right:32px;padding-top:0;text-ali=
+gn:center;"><!--[if mso | IE]><table role=3D"presentation" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D"vertical-align=
+:top;width:586px;" ><![endif]--><div class=3D"mj-column-per-100 mj-outlook-=
+group-fix" style=3D"font-size:0px;text-align:left;direction:ltr;display:inl=
+ine-block;vertical-align:top;width:100%;"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"vertical-align:top;=
+" width=3D"100%"><tbody><tr><td align=3D"left" vertical-align=3D"middle" st=
+yle=3D"font-size:0px;padding:12px 0px;word-break:break-word;"><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"b=
+order-collapse:separate;line-height:100%;"><tbody><tr><td align=3D"center" =
+bgcolor=3D"#040D14" role=3D"presentation" style=3D"border:1px solid #b4bdc2=
+;border-radius:22px;cursor:auto;mso-padding-alt:11px 30px;background:#040D1=
+4;" valign=3D"middle"><a href=3D"https://applink.robinhood.com/option_event=
+s?id=3D9e214cd8-f87d-4dde-81d8-d0f20390fbe0" style=3D"display: inline-block=
+; background: #040D14; color: #ffffff; font-family: Helvetica, Arial; font-=
+size: 15px; font-weight: bold; line-height: 22px; margin: 0; text-decoratio=
+n: none; text-transform: none; padding: 11px 30px; mso-padding-alt: 0px; bo=
+rder-radius: 22px;" target=3D"_blank">View Assignment</a></td></tr></tbody>=
+</table></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table=
+><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></=
+table><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"mj-section-rh-outlook" role=3D"presentation" style=3D"width:65=
+2px;" width=3D"652" bgcolor=3D"#ffffff" ><tr><td style=3D"line-height:0px;f=
+ont-size:0px;mso-line-height-rule:exactly;"><![endif]--><div class=3D"mj-se=
+ction-rh" style=3D"background:#ffffff;background-color:#ffffff;margin:0px a=
+uto;max-width:652px;"><table align=3D"center" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" role=3D"presentation" style=3D"background:#ffffff;backg=
+round-color:#ffffff;width:100%;"><tbody><tr><td style=3D"border:1px solid #=
+B4BDC2;border-bottom:none;border-top:none;direction:ltr;font-size:0px;paddi=
+ng:20px 0;padding-bottom:0;padding-left:32px;padding-right:32px;padding-top=
+:0;text-align:center;"><!--[if mso | IE]><table role=3D"presentation" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D"ver=
+tical-align:top;width:586px;" ><![endif]--><div class=3D"mj-column-per-100 =
+mj-outlook-group-fix" style=3D"font-size:0px;text-align:left;direction:ltr;=
+display:inline-block;vertical-align:top;width:100%;"><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"vertical-a=
+lign:top;" width=3D"100%"><tbody><tr><td align=3D"left" style=3D"font-size:=
+0px;padding:12px 0px;word-break:break-word;"><div style=3D"font-family:Helv=
+etica, Arial;font-size:15px;line-height:25px;text-align:left;color:#040D14;=
+"><b>Why did I get assigned?</b><br>This can be a normal part of options tr=
+ading. When a buyer chooses to exercise a contract with your particular str=
+ike price and expiration date, your contract may be assigned at random.</di=
+v></td></tr><tr><td align=3D"left" style=3D"font-size:0px;padding:12px 0px;=
+word-break:break-word;"><div style=3D"font-family:Helvetica, Arial;font-siz=
+e:15px;line-height:25px;text-align:left;color:#040D14;">You can learn more =
+about options assignment by visiting our <a href=3D"https://robinhood.com/u=
+s/en/support/articles/expiration-exercise-and-assignment/" style=3D"color: =
+#000000; text-decoration: underline; font-weight: bold;">Help Center</a>.</=
+div></td></tr><tr><td align=3D"left" style=3D"font-size:0px;padding:12px 0p=
+x;word-break:break-word;"><div style=3D"font-family:Helvetica, Arial;font-s=
+ize:15px;line-height:25px;text-align:left;color:#6F787E;">=E2=80=93 The Rob=
+inhood team</div></td></tr><tr><td align=3D"left" style=3D"font-size:0px;pa=
+dding:12px 0px;padding-top:0;padding-bottom:22px;word-break:break-word;"><d=
+iv style=3D"font-family:Helvetica, Arial;font-size:15px;line-height:25px;te=
+xt-align:left;color:#040D14;"></div></td></tr></tbody></table></div><!--[if=
+ mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table></div><!=
+--[if mso | IE]></td></tr></table><table align=3D"center" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mj-section-rh-outlook" role=3D"pre=
+sentation" style=3D"width:652px;" width=3D"652" bgcolor=3D"#F6F6F6" ><tr><t=
+d style=3D"line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![=
+endif]--><div class=3D"mj-section-rh" style=3D"background:#F6F6F6;backgroun=
+d-color:#F6F6F6;margin:0px auto;max-width:652px;"><table align=3D"center" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=
+=3D"background:#F6F6F6;background-color:#F6F6F6;width:100%;"><tbody><tr><td=
+ style=3D"border:1px solid #B4BDC2;border-bottom:none;border-top:1;directio=
+n:ltr;font-size:0px;padding:20px 0;padding-bottom:0;padding-left:32px;paddi=
+ng-right:32px;padding-top:30px;text-align:center;"><!--[if mso | IE]><table=
+ role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr=
+><td class=3D"footer-column-outlook" style=3D"vertical-align:top;width:586p=
+x;" ><![endif]--><div class=3D"mj-column-per-100 mj-outlook-group-fix foote=
+r-column" style=3D"font-size:0px;text-align:left;direction:ltr;display:inli=
+ne-block;vertical-align:top;width:100%;"><table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" role=3D"presentation" style=3D"vertical-align:top;" w=
+idth=3D"100%"><tbody><tr><td align=3D"left" style=3D"font-size:0px;padding:=
+12px 0px;word-break:break-word;"><div style=3D"font-family:Helvetica, Arial=
+;font-size:15px;line-height:25px;text-align:left;color:#040D14;"></div></td=
+></tr><tr><td align=3D"left" class=3D"social-link-table" style=3D"font-size=
+:0px;padding:0 0 8px;word-break:break-word;"><table cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%" border=3D"0" style=3D"margin-left: -5px; color:=
+ #040D14; font-family: Helvetica, Arial; font-size: 15px; line-height: 25px=
+; table-layout: auto; width: 100%; border: none;"><tr><td width=3D"32"><a h=
+ref=3D"https://www.facebook.com/robinhoodapp" style=3D"color: #040D14; text=
+-decoration: none; font-weight: normal;"><img src=3D"https://cdn.robinhood.=
+com/post_office_email_assets/Facebook-2%402x.png" srcset=3D"https://cdn.rob=
+inhood.com/post_office_email_assets/Facebook-2.png, https://cdn.robinhood.c=
+om/post_office_email_assets/Facebook-2%402x.png 2x" width=3D"32" height=3D"=
+32" align=3D"left" padding=3D"0"></a></td><td width=3D"12"></td><td width=
+=3D"32"><a href=3D"https://twitter.com/RobinhoodApp" style=3D"color: #040D1=
+4; text-decoration: none; font-weight: normal;"><img src=3D"https://cdn.rob=
+inhood.com/post_office_email_assets/Twitter-2%402x.png" srcset=3D"https://c=
+dn.robinhood.com/post_office_email_assets/Twitter-2.png, https://cdn.robinh=
+ood.com/post_office_email_assets/Twitter-2%402x.png 2x" width=3D"32" height=
+=3D"32" align=3D"left" padding=3D"0"></a></td><td width=3D"12"></td><td wid=
+th=3D"32"><a href=3D"https://www.instagram.com/robinhoodapp" style=3D"color=
+: #040D14; text-decoration: none; font-weight: normal;"><img src=3D"https:/=
+/cdn.robinhood.com/post_office_email_assets/Instagram-2%402x.png" srcset=3D=
+"https://cdn.robinhood.com/post_office_email_assets/Instagram-2.png, https:=
+//cdn.robinhood.com/post_office_email_assets/Instagram-2%402x.png 2x" width=
+=3D"32" height=3D"32" align=3D"left" padding=3D"0"></a></td><td colspan=3D"=
+100"><!-- NOTE(stuart.olivera): Using colspan=3D100 because Apple Mail resi=
+zes all table cells to be equal otherwise --><!-- NOTE(stuart.olivera): Emp=
+ty to prevent auto-layout within open horizontal space --></td></tr></table=
+></td></tr><tr><td align=3D"left" style=3D"font-size:0px;padding:12px 0px;p=
+adding-top:0;padding-bottom:0;word-break:break-word;"><div style=3D"font-fa=
+mily:Helvetica, Arial;font-size:15px;line-height:25px;text-align:left;color=
+:#040D14;"><a href=3D"https://robinhood.com" style=3D"color: #040D14; text-=
+decoration: none; font-weight: normal;">Home</a><br><a href=3D"https://robi=
+nhood.com/support/" style=3D"color: #040D14; text-decoration: none; font-we=
+ight: normal;">Help Center</a><br><a href=3D"https://robinhood.com/contact"=
+ style=3D"color: #040D14; text-decoration: none; font-weight: normal;">Cont=
+act Us</a><br><a href=3D"https://robinhood.com/l/privacy" style=3D"color: #=
+040D14; text-decoration: none; font-weight: normal;">Privacy Policy</a></di=
+v></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![en=
+dif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table>=
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"mj-section-rh-outlook" role=3D"presentation" style=3D"width:652px;" =
+width=3D"652" bgcolor=3D"#F6F6F6" ><tr><td style=3D"line-height:0px;font-si=
+ze:0px;mso-line-height-rule:exactly;"><![endif]--><div class=3D"mj-section-=
+rh" style=3D"background:#F6F6F6;background-color:#F6F6F6;margin:0px auto;ma=
+x-width:652px;"><table align=3D"center" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" role=3D"presentation" style=3D"background:#F6F6F6;background-=
+color:#F6F6F6;width:100%;"><tbody><tr><td style=3D"border:1px solid #B4BDC2=
+;border-bottom:1;border-top:none;direction:ltr;font-size:0px;padding:20px 0=
+;padding-bottom:34px;padding-left:32px;padding-right:32px;padding-top:0;tex=
+t-align:center;"><!--[if mso | IE]><table role=3D"presentation" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"footer-column-outloo=
+k footer-disclosure-outlook footer-disclosure-muted-outlook" style=3D"verti=
+cal-align:top;width:586px;" ><![endif]--><div class=3D"mj-column-per-100 mj=
+-outlook-group-fix footer-column footer-disclosure footer-disclosure-muted"=
+ style=3D"font-size:0px;text-align:left;direction:ltr;display:inline-block;=
+vertical-align:top;width:100%;"><table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" role=3D"presentation" style=3D"vertical-align:top;" width=3D"1=
+00%"><tbody><tr><td align=3D"left" style=3D"font-size: 0px; padding: 12px 0=
+px; word-break: break-word; padding-bottom: 0px;"><div style=3D"font-family=
+: Helvetica, Arial; text-align: left; font-size: 12px; line-height: 22px; c=
+olor: #6F787E;">Funds being contributed into or distributed from retirement=
+ accounts may entail tax consequences. Contributions are limited and withdr=
+awals before age 59 1/2 may be subject to a penalty tax. Robinhood does not=
+ provide tax advice.</div></td></tr><tr><td align=3D"left" style=3D"font-si=
+ze: 0px; padding: 12px 0px; word-break: break-word; padding-bottom: 0px;"><=
+div style=3D"font-family: Helvetica, Arial; text-align: left; font-size: 12=
+px; line-height: 22px; color: #6F787E;">Options trading on Robinhood entail=
+s significant risk and is not appropriate for all investors. Options transa=
+ctions are often complex and may involve the potential of losing your inves=
+tment. Under certain market conditions, you may find it difficult or imposs=
+ible to liquidate an options position quickly at a reasonable price. All in=
+vestments involve risk and the past performance of a security, or financial=
+ product does not guarantee future results or returns. Investors should con=
+sider their investment objectives and risks carefully before investing in o=
+ptions.<br><br>To learn more about the risks associated with options tradin=
+g, please read the <a href=3D"https://cdn.robinhood.com/assets/robinhood/le=
+gal/Characteristics%20and%20Risks%20of%20Standardized%20Options.pdf" style=
+=3D"color: #040D14; text-decoration: none; font-weight: normal;">Characteri=
+stics and Risks of Standardized Options</a> before you begin trading option=
+s. Please also be aware of the risks listed in the following documents: <a =
+href=3D"https://cdn.robinhood.com/assets/robinhood/legal/RHF%20Day%20Tradin=
+g%20Risk%20Disclosure.pdf" style=3D"color: #040D14; text-decoration: none; =
+font-weight: normal;">Day Trading Risk Disclosure Statement</a>, <a href=3D=
+"https://www.finra.org/investors/learn-to-invest/advanced-investing/purchas=
+ing-margin" style=3D"color: #040D14; text-decoration: none; font-weight: no=
+rmal;">FINRA Investor Information</a>.<br><br>You should be aware that when=
+ trading options you may become obligated to make or take delivery of the u=
+nderlying security. You may also be restricted from selling shares of the u=
+nderlying security which are held to cover options positions. Under certain=
+ circumstances, the specifications of outstanding contracts (including the =
+exercise price of an option) may be modified by the exchange or clearinghou=
+se to react to changes in the underlying interest.<br><br>Investors should =
+be aware that system response, execution price, speed, liquidity, market da=
+ta, and account access times are affected by many factors, including market=
+ volatility, size and type of order, market conditions, system performance,=
+ and other factors.</div></td></tr><tr><td align=3D"left" style=3D"font-siz=
+e: 0px; padding: 12px 0px; word-break: break-word; padding-bottom: 0px;"><d=
+iv style=3D"font-family: Helvetica, Arial; text-align: left; font-size: 12p=
+x; line-height: 22px; color: #6F787E;">All securities and investments are o=
+ffered to self-directed customers by Robinhood Financial LLC, member <a hre=
+f=3D"https://www.sipc.org/" style=3D"color: #040D14; text-decoration: none;=
+ font-weight: normal;">SIPC</a> & <a href=3D"https://www.finra.org/#/" styl=
+e=3D"color: #040D14; text-decoration: none; font-weight: normal;">FINRA</a>=
+. Robinhood Securities, LLC (member <a href=3D"https://www.sipc.org/" style=
+=3D"color: #040D14; text-decoration: none; font-weight: normal;">SIPC</a>),=
+ is a registered broker dealer and provides brokerage clearing services. Bo=
+th are wholly owned subsidiaries of Robinhood Markets, Inc.</div></td></tr>=
+<tr><td align=3D"left" style=3D"font-size: 0px; padding: 12px 0px; word-bre=
+ak: break-word; padding-bottom: 0px;"><div style=3D"font-family: Helvetica,=
+ Arial; text-align: left; font-size: 12px; line-height: 22px; color: #6F787=
+E;">Copyright =C2=A9 2026 Robinhood, 85 Willow Road, Menlo Park, CA 94025. =
+All rights reserved. 2=E2=80=8B621131</div></td></tr><tr><td align=3D"left"=
+ style=3D"font-size: 0px; padding: 12px 0px; word-break: break-word; paddin=
+g-bottom: 0px;"><div style=3D"font-family: Helvetica, Arial; text-align: le=
+ft; font-size: 12px; line-height: 22px; color: #6F787E;">This email is bein=
+g sent in compliance with regulatory requirements.</div></td></tr></tbody><=
+/table></div><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tb=
+ody></table></div><!--[if mso | IE]></td></tr></table><![endif]--></div><im=
+g src=3D"https://sg.robinhood.com/wf/open?upn=3Du001.pi0KtbS4wwpxeH69XGjkvk=
+mKpZbYXhh8nU6E-2FDfIBDSV-2BELZfE2gFP48GmqF-2BWNjNTbOmTgGOOKBuM0lsegaDjUA-2B=
+m8J5y18yPVHPEtbZVTv8Mvaq8fI6Qq-2FB3yB6aByZBh6f9-2Fv4rUi6k9J9CrPDsdQfBsDj-2F=
+jsn3kjRRK6Y9fZbJfJzogQvzQ9WX5raycBLQejb12nG0Wb2RNU23TrGeUbrbBuGyaSJONIDkT99=
+mAdZFGbS6rs-2BQbkSaBD0yw-2F-2BfyMDj5DwHIJykL2CG5wXu9h03H9Sc3wNXlHBeCzsSdBES=
+1UDiSpj56-2FY9dPvLBY7pY7AHcNNkgyFnVPN1S1wf-2B-2B-2FH-2BOKmp-2FW5wF-2FrAcoja=
+sH7-2Bsiybz-2FO-2BDIZwufMxXv3jyyOh2veyGeaTElD2qDYjD-2F2zNJ-2F2ik4hWAg62LkfL=
+YQYQRn1B-2FNspT0jtrFdx6BQ4osbbvuEtm6eyVypgH4zOUhLMMT9OuBF2VMN5VC7GIQkYmByQ5=
+ixodGRWM-2BEXHfFht3A5O-2BV9QhN-2BxEfcrnOpXNP14QsRU0vyrrrmMTVj72uRBOkjYv2lNz=
+0Lhaz5v3Vwm8brNf-2FtbUpsVBzVbilcQZ-2BMfaEiVBJle9jj9xM-3D" alt=3D"" width=3D=
+"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !imp=
+ortant;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !i=
+mportant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !=
+important;padding-bottom:0 !important;padding-right:0 !important;padding-le=
+ft:0 !important;"/></body></html>
+--3c53f751be0c8340a8ae2022cde518a12d2ea1db5fd5b04232c8aca258bd--
